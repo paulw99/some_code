@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "MyWorkspace"
+		}
+	],
+	"settings": {
+		"github.allowUnsafeSSL": true,
+		"python.pythonPath": "C:\\Users\\WILLIAMSONPJ\\.virtualenvs\\MyWorkspace-IvQh7vVl\\Scripts\\python.exe"
+	}
+}
